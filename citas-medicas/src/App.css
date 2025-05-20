@@ -2,7 +2,7 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #f4f6f8;
+  background-color: #c2eef9;
 }
 
 header {
@@ -13,11 +13,13 @@ header {
 }
 
 nav {
-  background-color: #eeeeee;
+  background-color: #f3f69b;
   padding: 0.5rem;
   display: flex;
   justify-content: center;
   gap: 1rem;
+  width: 50%;
+  margin-left: 25%;
 }
 
 nav a {

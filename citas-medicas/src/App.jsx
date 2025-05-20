@@ -8,7 +8,7 @@ import './App.css'
 export default function App () {
   return (
     <div>
-      <h1>Gestión de Citas Médicas</h1>
+      <h1><center>Gestión de Citas Médicas</center></h1>
       <nav>
         <Link to='/'>Inicio</Link> |{' '}
         <Link to='/citas'>Lista de Citas</Link> |{' '}
