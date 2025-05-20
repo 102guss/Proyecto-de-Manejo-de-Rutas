@@ -1,0 +1,16 @@
+.form-crear-cita {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.form-crear-cita input,
+.form-crear-cita textarea {
+  padding: 0.5rem;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+.form-crear-cita button {
+  align-self: flex-start;
+}

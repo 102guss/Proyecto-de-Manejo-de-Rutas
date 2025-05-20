@@ -1,0 +1,10 @@
+.detalle-cita {
+  background-color: #e3f2fd;
+  padding: 1.5rem;
+  border-radius: 6px;
+  box-shadow: 0 1px 5px rgba(0,0,0,0.15);
+}
+
+.detalle-cita p {
+  font-size: 1.1rem;
+}

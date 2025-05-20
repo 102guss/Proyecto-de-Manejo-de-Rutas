@@ -3,6 +3,7 @@ import Home from './pages/Home'
 import ListaCitas from './pages/ListaCitas'
 import CrearCita from './pages/CrearCita'
 import CitaDetalle from './pages/CitaDetalle'
+import './App.css'
 
 export default function App () {
   return (
